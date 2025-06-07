@@ -1,0 +1,6 @@
+list=[10,57,90,30,67]
+sum= 0 
+for i in list :
+    sum=sum+ i
+
+    print(sum)
